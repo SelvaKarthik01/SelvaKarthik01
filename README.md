@@ -9,15 +9,17 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on [Deep Learning Super Sampling(DLSS))](https://github.com/SelvaKarthik01/Deep-Learning-Super-Sampling-DLSS)
+- 👯 I’m looking to collaborate on [Deep Learning Super Sampling(DLSS)](https://github.com/SelvaKarthik01/Deep-Learning-Super-Sampling-DLSS)
 
-- 🤝 I’m looking for help with [Medical Chatbot Deployment](https://github.com/SelvaKarthik01/Medical-Chatbot-RAG)
+- 🤝 I’m looking for help with [Medical Chatbot](https://github.com/SelvaKarthik01/Medical-Chatbot-RAG)
 
 - 📫 How to reach me **selvakarthik004s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/selvakarthik101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selvakarthik101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/selva-karthik-60b04624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/selva-karthik-60b04624a" height="30" width="40" /></a>
+<a href="https://instagram.com/0_.selva._0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0_.selva._0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/selvakarthikfanofvk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/selvakarthikfanofvk2004" height="30" width="40" /></a>
 </p>
 
