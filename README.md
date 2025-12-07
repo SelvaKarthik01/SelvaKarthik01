@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selvakarthik01" alt="selvakarthik01" /></a> </p>
 
-- 🔭 I’m currently working on [Medical Visual Question and Answering Research](https://github.com/SelvaKarthik01/Med-VQA)
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on [Deep Learning Super Sampling(DLSS)](https://github.com/SelvaKarthik01/Deep-Learning-Super-Sampling-DLSS)
-
-- 🤝 I’m looking for help with [Medical Chatbot](https://github.com/SelvaKarthik01/Medical-Chatbot-RAG)
-
-- 📫 How to reach me **selvakarthik004s@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/selvakarthik101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selvakarthik101" height="30" width="40" /></a>
