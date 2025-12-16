@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selva Karthik</h1>
+<h1 align="center">I'm Selva Karthik</h1>
 <h3 align="center">Engineering Student @ SASTRA Deemed University, Passionate about AI, Deep Learning, and Innovative Problem-Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selvakarthik01&label=Profile%20views&color=0e75b6&style=flat" alt="selvakarthik01" /> </p>
