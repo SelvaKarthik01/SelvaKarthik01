@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black_colour.jpg/1536px-Black_colour.jpg"  />
+  
 </div>
 
 ###
