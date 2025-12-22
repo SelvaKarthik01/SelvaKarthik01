@@ -4,6 +4,18 @@
 
 ###
 
+<img align="left" height="250" src="https://cdn-blog.adafruit.com/uploads/2018/05/feynman-banner.png"  />
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
 <br clear="both">
 
 <img align="right" src="https://count.getloli.com/@:SelvaKarthik01?theme=3d-num&padding=3&scale=1&align=center&pixelated=1&darkmode=auto"  />
@@ -48,15 +60,13 @@
 
 ###
 
-<img align="left" height="250" src="https://cdn-blog.adafruit.com/uploads/2018/05/feynman-banner.png"  />
+<p align="left"></p>
 
 ###
 
 <p align="left"></p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SelvaKarthik01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
